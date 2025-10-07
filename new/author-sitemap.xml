@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://tbfsna.myshopify.com/sitemap_products_1.xml?from=7541258420314&amp;to=7618987065434</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://tbfsna.myshopify.com/sitemap_pages_1.xml?from=121514295386&amp;to=125296312410</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://tbfsna.myshopify.com/sitemap_collections_1.xml?from=292202512474&amp;to=296346615898</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://tbfsna.myshopify.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>
