@@ -4,7 +4,7 @@ from urllib.parse import urlparse, unquote
 from pathlib import Path
 
 INDEX_URL = "https://thebreastformstore.com/sitemap_index.xml"
-OUTPUT_DIR = "sitemaps"
+OUTPUT_DIR = "old"
 RECURSIVE = True     # True = segue sitemap_index aninhado; False = só os filhos do índice principal
 SLEEP = 0.2
 HEADERS = {"User-Agent": "Mozilla/5.0 (SitemapFetcher/1.0)"}
